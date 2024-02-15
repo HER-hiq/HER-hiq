@@ -5,9 +5,9 @@
 
 A passionate and ambitious student who interested in **Mobile Development!** 🖥️
 <br>
-- <a href="https://unjaya.ac.id/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Universitas_Jenderal_Achmad_Yani_Yogyakarta.png/800px-Universitas_Jenderal_Achmad_Yani_Yogyakarta.png"/></a>
+- <a href="https://unjaya.ac.id/"><img align="left" alt="Unjaya" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Universitas_Jenderal_Achmad_Yani_Yogyakarta.png/800px-Universitas_Jenderal_Achmad_Yani_Yogyakarta.png"/></a>
 **Information Systems** student at **Universitas Jenderal Achmad Yani Yogyakarta**
-- <a href="https://www.linkedin.com/company/bangkit-academy/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_e7e4d54b-6688-45e9-96a6-1a2e04be63a0.png"/></a>
+- <a href="https://www.linkedin.com/company/bangkit-academy/"><img align="left" alt="Bangkit" title="JavaScript" width="21px" src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_e7e4d54b-6688-45e9-96a6-1a2e04be63a0.png"/></a>
 **Mobile Development** Cohort at **Bangkit Academy 2024**
 <br>
 <p align="left">
