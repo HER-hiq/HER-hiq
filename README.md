@@ -1,15 +1,17 @@
-### Hello World!
+### Hello World! :earth_asia: 
 
-Nama saya **Hernanda Hiqmal Maula**.  
+My name is **Hernanda Hiqmal Maula**.  
 
-Saya adalah seorang mahasiswa **Sistem Informasi** di [Universitas Jenderal Achmad Yani Yogyakarta](https://unjaya.ac.id/).  
+I am an undergraduate **Information Systems** at [Universitas Jenderal Achmad Yani Yogyakarta](https://unjaya.ac.id/).  
 
 Mari berkenalan dengan saya lewat [LinkedIn](https://www.linkedin.com/in/hernanda-hiqmal/)!
 
 ### Github Statistic
+
 <p align="left">
 <a href="https://github.com/hiqmalism">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hiqmalism&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiqmalism&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiqmalism&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiqmalism&theme=blueberry&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </p>
