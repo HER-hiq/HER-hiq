@@ -3,7 +3,7 @@
 ## Hello World! :earth_asia:
 ### I'm Hernanda Hiqmal Maula.
 
-A passionate and ambitious student who interested in **Mobile Development!** 🖥️
+A passionate and ambitious student who interested in **Mobile Development!** :computer:
 <br>
 - <a href="https://unjaya.ac.id/"><img align="left" alt="Unjaya" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Universitas_Jenderal_Achmad_Yani_Yogyakarta.png/800px-Universitas_Jenderal_Achmad_Yani_Yogyakarta.png"/></a>
 **Information Systems** student at **Universitas Jenderal Achmad Yani Yogyakarta**
