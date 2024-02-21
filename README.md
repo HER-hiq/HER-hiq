@@ -1,5 +1,3 @@
-
-
 ### Hello World! :earth_asia:
 ## I'm Hernanda Hiqmal Maula.
 
