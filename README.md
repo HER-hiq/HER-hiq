@@ -1,7 +1,7 @@
 
 
-## Hello World! :earth_asia:
-### I'm Hernanda Hiqmal Maula.
+### Hello World! :earth_asia:
+## I'm Hernanda Hiqmal Maula.
 
 A passionate and ambitious student who interested in **Mobile Development!** :computer:
 <br>
