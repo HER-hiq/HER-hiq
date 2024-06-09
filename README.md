@@ -8,12 +8,7 @@ A passionate and ambitious student who interested in **Mobile Development!** :co
 - <a href="https://www.linkedin.com/company/bangkit-academy/" target="_blank"><img align="left" alt="Bangkit" title="Bangkit" width="21px" src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_e7e4d54b-6688-45e9-96a6-1a2e04be63a0.png"/></a>
 **Mobile Development** Cohort at **Bangkit Academy 2024**
 <br>
-<p align="left">
-<a href="https://github.com/hiqmalism">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiqmalism&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiqmalism&theme=blueberry&show_icons=true&hide_border=true&layout=compact"/>
-</a>
-</p>
+
 <br>
 
 
